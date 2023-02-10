@@ -1,4 +1,6 @@
-import React from "react";
+// After commit
+
+import React, { useState, useEffect } from "react";
 
 const Contact = () => {
   return (
